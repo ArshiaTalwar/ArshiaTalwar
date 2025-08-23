@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development and Competitive Programming
 
-🌱 I’m currently learning Web Development,Devops and Data Science
+🌱 I’m currently learning Web Development,Devops and machine learning.
 
-👯 I’m looking to collaborate on Web Development and Data Science Projects
+👯 I’m looking to collaborate on Web Development and Machine learning Projects
 
 👨‍💻 All of my projects are available at https://github.com/ArshiaTalwar
 
